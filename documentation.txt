@@ -1,0 +1,2 @@
+https://pypi.python.org/pypi/pyscreenshot
+http://khtml2png.sourceforge.net/
